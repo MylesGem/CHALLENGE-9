@@ -1,0 +1,27 @@
+{
+  "name": "challenge-9",
+  "version": "1.0.0",
+  "description": "Readmegen",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MylesGem/CHALLENGE-9.git"
+  },
+  "keywords": [],
+  "author": "Myles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MylesGem/CHALLENGE-9/issues"
+  },
+  "homepage": "https://github.com/MylesGem/CHALLENGE-9#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.0"
+  }
+}
