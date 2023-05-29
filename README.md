@@ -1,5 +1,5 @@
 
-# Test 
+# project
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,20 +12,20 @@
 - [License](#License)
 
 ## Description 
-Readme file
+Readme Generator
 
 ## Usage
-to generate readmes quickly with all neccesary data
+[![Watch the video](/video/How%20to%20Run%20program.mp4)](/video/How%20to%20Run%20program.mp4)
 
 ## Contributing 
 undefined
 
 ## Installation 
-download the repo then in the terminal run npm install to install all required info. then to start the program in the terminal put npm start and the generator will begin. then enter the desired info.
+na
 
 ## Questions
-joeyreynolds1995@gmail.com
-https://github.com/MylesGem/CHALLENGE-9
+NA
+NA
 
 ## License
 [MIT]https://opensource.org/license/mit/
